@@ -1,3 +1,2 @@
-#!/bi/bash
-chmod +x ./test/test.sh
+#!/bin/bash
 ./node_modules/.bin/mocha ./test/test.js
