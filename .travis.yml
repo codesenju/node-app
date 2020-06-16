@@ -6,4 +6,4 @@ before_script:
 script:
  - pwd
  - ls -l
- - ./test/test.sh
+ - ./script/test.sh
