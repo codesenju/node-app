@@ -6,4 +6,4 @@ before_script:
 script:
  - pwd
  - ls -l
- - npm test
+ - ./node_modules/.bin/mocha ./test/test.js
