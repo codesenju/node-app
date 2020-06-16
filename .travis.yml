@@ -6,4 +6,4 @@ before_script:
 script:
  - pwd
  - ls -l
- - sudo ./script/test.sh
+ - npm test
