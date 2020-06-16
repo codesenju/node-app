@@ -4,6 +4,4 @@ node_js:
 before_script:
   - npm install
 script:
- - pwd
- - ls -l
- - ./node_modules/.bin/mocha ./test/test.js
+ - npm test
