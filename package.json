@@ -10,7 +10,7 @@
    
    "devDependencies": {
       "mocha": "1.20.1",
-      "supertest": "0.13.0"
+      "supertest": "6.3.3"
    },
    
    "scripts": {
